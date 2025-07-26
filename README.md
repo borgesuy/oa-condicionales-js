@@ -42,16 +42,7 @@ El estudiante debe superar los niveles interactivos.
 Al final, puede descargar un certificado personalizado.
 
 ✨ Autora
-Desarrollado por: Andrea Borges
-Capacitadora docente – Pensamiento Computacional, ANEP – Uruguay
+Desarrollado por: Andrea Borges - Ana Laura Borges
 
-📦 Repositorio
-Este repositorio contiene todos los archivos necesarios:
 
-HTML / CSS / JS
 
-Recursos multimedia
-
-Imágenes de insignias
-
-Certificado dinámico
